@@ -1,0 +1,5 @@
+{
+    "name": "my-product-enums",
+    "description": "Product specific module that creates hard boundary between different layers of the app",
+    "version": "1.0.0"
+}

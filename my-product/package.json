@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "name": "mews-product",
+    "workspaces": [
+        "src/*",
+        "../modules/*"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pbambusek/workspace-test.git"
+    }
+}

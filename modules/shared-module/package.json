@@ -1,0 +1,9 @@
+{
+    "name": "shared-module",
+    "description": "Module sharable with across different products",
+    "version": "1.5.0",
+    "dependencies": {
+        "enumify": "^1.0.4"
+    },
+    "main": "index.js"
+}
